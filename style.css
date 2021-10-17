@@ -1,0 +1,17 @@
+
+.table {
+    width: 350px;
+    background-color: rgb(126, 215, 241);
+    border: 1px solid green;
+    padding: 40px;
+    margin: 0 auto;
+    font-weight: 700px;
+    font-size: 20px; 
+}
+.input {
+ width: 100%;
+ padding: 10px 0;
+}
+.div.b {
+    margin: 0 auto;
+}
